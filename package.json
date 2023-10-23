@@ -1,5 +1,5 @@
 {
-  "name": "json-server-vercel",
+  "name": "Bot-API",
   "version": "1.0.0",
   "description": "Deploy JSON Server to Vercel",
   "main": "api/server.js",
