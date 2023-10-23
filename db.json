@@ -1,9 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  
+  "Users": [
+
+    { "UserId": 1, "UserName": "Fael", "UsPW": "Nzc3Nw==", "UsUD": "OUQ1RUMxRDgtQTREMy0xMUY2LTIzM0UtNjQ4RDdDMDdEOTAz" },
+    { "UserId": 2, "UserName": "Pedro", "UsPW": "Nzc3Nw==", "UsUD": "MDMwMDAyMDAtMDQwMC0wNTAwLTAwMDYtMDAwNzAwMDgwMDA5" },
+    { "UserId": 3, "UserName": "Luiz", "UsPW": "Nzc3Nw==", "UsUD": "MDNDMDAyMTgtMDQ0RC0wNUYxLTc2MDYtMDcwNzAwMDgwMDA5" },
+    { "UserId": 4, "UserName": "Tioo", "UsPW": "b29pdA==", "UsUD": "NzBDOEU4MEEtOEY2NC1BODU2LUMyQjEtODhEN0Y2MTlEQUI2" }
+
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+
+  "BotInfos": [
+
+    { "Version": "2.3.6" }
+
+  ]
+
 }
